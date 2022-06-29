@@ -36,3 +36,13 @@ for data in pk_data:
 		print(data[0:space], end='')
 		print(data[space+1:])
 
+# # Reading link names
+# ln = pd.read_csv(r"./data/link_name.csv")
+# linkname = ln["productName"]
+
+# for data in linkname:
+# 	data = data.lower()
+# 	if (data.find('apple') != -1):
+# 		print("TRUE")
+# 	else:
+# 		print("FALSE")
