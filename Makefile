@@ -1,13 +1,18 @@
 # Implicit variables
-PY = python
+PY      = python
+PYFLAGS = -W ignore
 
 # Source codes
 SRCS = 
 
+SHELL := /bin/bash
 # Targets
 MAIN = main.py
 
 all:
-	@$(PY) $(MAIN)
+	@$(PY) $(PYFLAGS) $(MAIN)
 
-.PHONY:
+test:
+	@$(PY) $(PYFLAGS) ./test/test.py
+
+.PHONY: test
