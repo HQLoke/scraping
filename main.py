@@ -1,7 +1,7 @@
-from math import nan
-from os import sep
 import numpy as np
 import pandas as pd
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
 import re
 
 # Brute force method
@@ -80,17 +80,18 @@ def separation(list, code):
 
 # Product key
 output_product = pd.read_csv("./data/product_key.csv")
-output_product = output_product[r"PSmodelName"]
-product = separation(output_product, 1)
+output_product_temp = output_product[r"PSmodelName"]
+product = separation(output_product_temp, 1)
 
 # Scraped data
-output_scraped = pd.read_csv("./data/scraped_data.csv")
-output_to_scraped = output_scraped[r"productName from URL"]
-scraped = separation(output_to_scraped, 2)
+output_scraped = pd.read_csv("./data/scraped_data.csv", index_col=0)
+output_to_scraped_temp = output_scraped[r"productName from URL"]
+scraped = separation(output_to_scraped_temp, 2)
 
 temp = output_scraped[r"productURL"]
 temp2 = output_scraped[r"Variant from URL"]
 temp3 = output_scraped[r"Stock Status from URL"]
+
 i = 0
 for s in scraped:
 	s.update({'URL':temp[i]})
@@ -106,8 +107,79 @@ for s in scraped:
 	s.update({'StockStatus':temp3[i]})
 	i += 1
 
-# for p in product:
-# 	print(p)
+#
+def	match_productName(s, product):
+	count = 0
+	bests = 0
+	bests2 = 0
+	bestscore = 0
+	bestscore2 = 0
+	for p in product:
+		if (s['Brand'] == p['Brand']):
+			modelCheck = fuzz.ratio(s['model'], p['model'])
+			if (s['Display'] == None):
+				displayCheck = 100
+			else:
+				displayCheck = fuzz.ratio(s['Display'], p['Display'])
+			if (s['Storage'] == None):
+				storageCheck = 100
+			else:
+				storageCheck = fuzz.token_set_ratio(s['Storage'], p['Storage'])
+			bests = (modelCheck + storageCheck + displayCheck) / 3
+			if (bests == 100):
+				return (count)
+		count += 1
+	bests = 0
+	count = 0
+	index = 0
+	for p in product:
+		if (s['Brand'] == p['Brand']):
+			modelCheck = fuzz.ratio(s['model'], p['model'])
+			modelCheck2 = fuzz.token_set_ratio(s['model'], p['model'])
+			if (s['Display'] == None):
+				displayCheck = 100
+			else:
+				displayCheck = fuzz.ratio(s['Display'], p['Display'])
+			if (s['Storage'] == None):
+				storageCheck = 100
+			else:
+				storageCheck = fuzz.token_set_ratio(s['Storage'], p['Storage'])
+			bests = (modelCheck + storageCheck + displayCheck) / 3
+			bests2 = (modelCheck2 + storageCheck + displayCheck) / 3
+			if (bests > bestscore):
+				bestscore = bests
+				index = count
+			if (bests2 > bestscore2):
+				bestscore2 = bests2
+				index = count
+		count += 1
+	if (bestscore >= bestscore2):
+		if (bestscore > 90):
+			return (index)
+	elif (bestscore2 > bestscore):
+		if (bestscore2 > 80):
+			return (index)
 
-# for s in scraped:
-# 	print(s['Storage'])
+prod_key = []
+model_name = []
+category = []
+for s in scraped:
+	if ('Brand' in s.keys()):
+		index = match_productName(s, product)
+		if (index == None):
+			prod_key.append("")
+			model_name.append("")
+			category.append("")
+		else:
+			prod_key.append(output_product.iloc[index]['PSproductKey'])
+			model_name.append(output_product.iloc[index]['PSmodelName'])
+			category.append(output_product.iloc[index]['category'])
+prod_key.append("")
+model_name.append("")
+category.append("")
+output_scraped['PSproductKey'] = prod_key
+output_scraped['PSmodelName'] = model_name
+output_scraped['Category'] = category
+
+print(output_scraped.columns)
+output_scraped.to_csv("Complete.csv")
