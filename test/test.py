@@ -21,17 +21,21 @@ display = "[0-9]+[.]*[0-9]+[- ]inch"
 generation = "... gen"
 network = "wi-fi[ ]*[+][ ]*cellular|wi-fi[ ]*[+][ ]*mobile network|wi-fi"
 ram = "8gb|16gb"
-storage = "\([^5].*[Gg][Bb]\)|64[ ]*[Gg]*[Bb]*|128[ ]*[Gg]*[Bb]*|256[ ]*[Gg]*[Bb]*|512[ ]*[Gg]*[Bb]*|1tb|2tb"
+product_storage = "\(*[0-9]+[MmGgTb]*[Bb]*[ ]*[+][ ]*[0-9]+[ ]*[MmGgTb][Bb]\)*"
+product_storage_apple = "1[Tt][Bb]|2[Tt][Bb]|\(*[1-9]+[MmGgTb][Bb]\)*"
+scraped_storage = "\(.+\)|[0-9]+[MmGgTb][Bb]"
 year = "20[1-2][0-9]"
 
 def dict_add(dict_new, regex, key_name, name, add_dict):
 	temp = name
 	rgx = re.findall(regex, name)
 	dict_new.update({key_name:None})
-	if (len(rgx) > 0):
-		temp = name.replace(rgx[0], '')
+	i = 0
+	while (i < len(rgx)):
+		temp = name.replace(rgx[i], '')
 		if (add_dict == True):
 			dict_new.update({key_name:rgx[0]})
+		i += 1
 	return temp
 
 def rm_tuple_from_name(name, tuple):
@@ -57,12 +61,13 @@ def separation(list, code):
 		name = dict_add(dict_new, generation, 'Generation', name, True)
 		name = dict_add(dict_new, network, 'Network', name, True)
 		name = dict_add(dict_new, year, 'Year', name, True)
-		name = name.replace(r'(', '')
-		name = name.replace(r')', '')
 		if (code == 1):
-			name = dict_add(dict_new, storage, 'Storage', name, True)
+			if (dict_new['Brand'] != 'apple'):
+				name = dict_add(dict_new, product_storage, 'Storage', name, True)
+			else:
+				name = dict_add(dict_new, product_storage_apple, 'Storage', name, True)
 		elif (code == 2):
-			name = dict_add(dict_new, storage, 'Storage', name, False)
+			name = dict_add(dict_new, scraped_storage, 'Storage', name, False)
 		name = dict_add(dict_new, ram, 'RAM', name, False)
 		name = rm_tuple_from_name(name, symbol)
 		idx = name.find(r'/')
@@ -93,6 +98,3 @@ for s in scraped:
 		s['Storage'] = None
 	s.update({'StockStatus':temp3[i]})
 	i += 1
-
-for p in product:
-	print(p)
