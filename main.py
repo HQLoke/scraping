@@ -94,19 +94,20 @@ temp3 = output_scraped[r"Stock Status from URL"]
 i = 0
 for s in scraped:
 	s.update({'URL':temp[i]})
-	if (pd.isna(temp2[i])):
-		s['Storage'] = s['Storage']
-	else:
-		s['Storage'] = temp2[i]
+	if (pd.isna(temp2[i]) != True):
+		s['Storage'] = temp2[i]		
 	name = str(s['Storage'])
 	name = rm_tuple_from_name(name, symbol)
-	# name = name.replace(' ', '')
-	s['Storage'] = name
+	name = name.replace(' ', '')
+	if (len(name) <= 0):
+		s['Storage'] = None
+	else:
+		s['Storage'] = name
 	s.update({'StockStatus':temp3[i]})
 	i += 1
 
 # for p in product:
 # 	print(p)
 
-for s in scraped:
-	print(s)
+# for s in scraped:
+# 	print(s['Storage'])

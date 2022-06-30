@@ -1,95 +1,95 @@
-{'Brand': 'honor', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': '2021', 'Storage': '8gb', 'model': 'magicbook x15 i3   8gb', 'URL': 'https://www.lazada.com.my/products/honor-magicbook-x15-i3-2021-space-grey-8gb-ram-256gb-original-1-year-warranty-by-honor-malaysia-i2608649455-s11730638464.html?mp=1&freeshipping=1', 'StockStatus': 'Only 1 items left'}
-{'Brand': 'huawei', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '64GB', 'model': 'matepad t10s', 'URL': 'https://www.lazada.com.my/products/huawei-matepad-t10s-23gb3264gb-original-huawei-malaysai-ready-stock-i2019269555.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'huawei', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '32GB', 'model': 'matepad t10s', 'URL': 'https://www.lazada.com.my/products/huawei-matepad-t10s-23gb3264gb-original-huawei-malaysai-ready-stock-i2019269555.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'huawei', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '8gb+128gb', 'model': 'nova 8i     nova 8i', 'URL': 'https://www.lazada.com.my/products/huawei-nova-8i-8gb128gb-original-huawei-malaysia-nova-8i-i2324627088.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'infinix', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '6gb+128gb     ', 'model': 'hot 10', 'URL': 'https://www.lazada.com.my/products/infinix-hot-10-6gb128gbnew-model-original-infinix-malaysiaready-stock-i2394829859.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'infinix', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '6gb+128gb     ', 'model': 'note 10', 'URL': 'https://www.lazada.com.my/products/infinix-note-10-6gb128gbnew-model-original-infinix-malaysiaready-stock-i2394787430.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'nokia', 'Broadband': '4g ', 'Display': None, 'Generation': None, 'Network': None, 'Year': '2021', 'Storage': '4MB', 'model': '105', 'URL': 'https://www.lazada.com.my/products/nokia-105-4g-2021-105-2019-dual-sim-original-nokia-malaysia-i1489512831.html', 'StockStatus': 'Only 1 items left'}
-{'Brand': 'nokia', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': ' ', 'model': '106', 'URL': 'https://www.lazada.com.my/products/nokia-106-dual-sim-original-nokia-malaysia-i1836464068.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'nokia', 'Broadband': '4g ', 'Display': None, 'Generation': None, 'Network': None, 'Year': '2021', 'Storage': '   ', 'model': '110', 'URL': 'https://www.lazada.com.my/products/nokia-110-4g-new-2021-dual-sim-original-nokia-malaysia-i2031140070.html', 'StockStatus': 'Only 2 items left'}
-{'Brand': 'nokia', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': '2020', 'Storage': 'None', 'model': '150    no', 'URL': 'https://www.lazada.com.my/products/nokia-150-2020-new-model-no-chinese-language-original-nokia-malaysia-i2019325811.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'nokia', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': ' ', 'model': '210', 'URL': 'https://www.lazada.com.my/products/nokia-210-dual-sim-original-nokia-malaysia-ready-stock-i1836474222.html', 'StockStatus': 'Only 2 items left'}
-{'Brand': 'nokia', 'Broadband': '(4g)', 'Display': None, 'Generation': None, 'Network': None, 'Year': '2021', 'Storage': ' ', 'model': '225', 'URL': 'https://www.lazada.com.my/products/nokia-225-4g-new-2021-dual-sim-original-nokia-malaysia-i2031040461.html', 'StockStatus': 'Only 2 items left'}
-{'Brand': 'nokia', 'Broadband': '4g ', 'Display': None, 'Generation': None, 'Network': None, 'Year': '2021', 'Storage': '  ', 'model': '6300-', 'URL': 'https://www.lazada.com.my/products/nokia-6300-4g-2021-new-model-original-nokia-malaysia-i2506914718.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'oppo', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '4gb+64/128gb     ', 'model': 'a54', 'URL': 'https://www.lazada.com.my/products/oppo-a54-4gb64128gb-original-oppo-malaysia-ready-stock-i2063114741.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'oppo', 'Broadband': '(5g)', 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '6gb+64/128gb      ', 'model': 'a74', 'URL': 'https://www.lazada.com.my/products/oppo-a74-74-5g-6gb64128gb-original-oppo-malaysia-ready-stock-i2280106862.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'oppo', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '6+128gb', 'model': 'a76', 'URL': 'https://www.lazada.com.my/products/oppo-a766128gb-original-malaysia-set-i2811862668.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'oppo', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '8gb +5gb  + 128gb ', 'model': 'a95', 'URL': 'https://www.lazada.com.my/products/oppo-a95-8gb-5gb-extended-128gbready-stock-i2638400735.html', 'StockStatus': 'Only 5 items left'}
-{'Brand': 'oppo', 'Broadband': '(5g)', 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '8gb/12gb +128gb/256gb    ', 'model': 'reno 6', 'URL': 'https://www.lazada.com.my/products/oppo-reno-66-pro6z5f5-5-pro-5g-8gb12gb-128gb256gb-original-oppo-malaysiaready-stock-i1937644220.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'realme', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '3gb+32gb', 'model': 'c21', 'URL': 'https://www.lazada.com.my/products/realme-c21-3gb32gb-original-realme-malaysia-i2025206275.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'xiaomi', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '4+64GB', 'model': '10c    10c', 'URL': 'https://www.lazada.com.my/products/redmi-10c4gb64128gb-original-xiaomi-malaysia-10c-ready-stock-i2888409397.html', 'StockStatus': 'Only 2 items left'}
-{'Brand': 'xiaomi', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '4+128GB', 'model': '10c    10c', 'URL': 'https://www.lazada.com.my/products/redmi-10c4gb64128gb-original-xiaomi-malaysia-10c-ready-stock-i2888409397.html', 'StockStatus': 'Only 2 items left'}
-{'Brand': 'xiaomi', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '2GB+32GB', 'model': '9a', 'URL': 'https://www.lazada.com.my/products/redmi-9a-2gb32gb-original-xiaomi-malaysia-i1732434547.html', 'StockStatus': 'Only 2 items left'}
-{'Brand': 'xiaomi', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '8gb+128gb      ', 'model': 'note 10 pro', 'URL': 'https://www.lazada.com.my/products/redmi-note-10-pro8gb128gb-original-xiaomi-malaysia-ready-stock-xiaomi-redmi-i2027230587.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'xiaomi', 'Broadband': '(5g)', 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '128GB', 'model': 'note 10', 'URL': 'https://www.lazada.com.my/products/redmi-note-10105g10s6gb8gb128gboriginal-xiaomi-malaysia-ready-stock-i2021009211.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'xiaomi', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '6gb/8gb+128gb     ', 'model': 'note 11', 'URL': 'https://www.lazada.com.my/products/redmi-note-11-11s10s6gb8gb128gboriginal-xiaomi-malaysia-ready-stock-i2804862797.html', 'StockStatus': 'Only 2 items left'}
-{'Brand': 'samsung', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '32GB', 'model': 'galaxy a03', 'URL': 'https://www.lazada.com.my/products/samsung-galaxy-a03-34gb3264gb-original-samsung-malaysia-i2795057599.html', 'StockStatus': 'Only 1 items left'}
-{'Brand': 'samsung', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '64GB', 'model': 'galaxy a03', 'URL': 'https://www.lazada.com.my/products/samsung-galaxy-a03-34gb3264gb-original-samsung-malaysia-i2795057599.html', 'StockStatus': 'Only 2 items left'}
-{'Brand': 'samsung', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '4gb+64gb', 'model': 'galaxy a03s', 'URL': 'https://www.lazada.com.my/products/samsung-galaxy-a03s-4gb64gb-original-samsung-malaysia-i2453569979.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'samsung', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '6gb+128gb', 'model': 'galaxy a12', 'URL': 'https://www.lazada.com.my/products/samsung-galaxy-a12-6gb128gbnew-original-samsung-malaysia-i1834248700.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'samsung', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '6gb+128gb', 'model': 'galaxy a13', 'URL': 'https://www.lazada.com.my/products/samsung-galaxy-a136gb128gbnew-original-samsung-malaysia-i2885938228.html', 'StockStatus': 'Only 2 items left'}
-{'Brand': 'samsung', 'Broadband': '(5g)', 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '5g 8gb+128gb    a22  ', 'model': 'galaxy a22 lte', 'URL': 'https://www.lazada.com.my/products/samsung-galaxy-a22-lte-a22-5g-8gb128gbnew-model-original-samsung-malaysiaa22-5gready-stock-i2274911606.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'samsung', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '6gb+128gb', 'model': 'galaxy a23 lte', 'URL': 'https://www.lazada.com.my/products/samsung-galaxy-a23-lte-6gb128gbnew-model-original-samsung-malaysia-i2885763883.html', 'StockStatus': 'Only 3 items left'}
-{'Brand': 'samsung', 'Broadband': '(5g)', 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '128GB', 'model': 'galaxy a32 lte', 'URL': 'https://www.lazada.com.my/products/samsung-galaxy-a32-lte-5g-8gb-128gb-original-samsung-malaysia-i2057370936.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'samsung', 'Broadband': '(5g)', 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '256GB', 'model': 'galaxy a52s & a52', 'URL': 'https://www.lazada.com.my/products/samsung-galaxy-a52s-a52-5g-a52-lte-8gb256gb-original-samsung-malaysia-i2053922723.html', 'StockStatus': 'Only 2 items left'}
-{'Brand': 'vivo', 'Broadband': '5g ', 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '12+4gb  /25gb', 'model': 'v23', 'URL': 'https://www.lazada.com.my/products/vivo-v23124gb-extended-ram25gb-5g-original-vivo-malaysia-ready-stock-i2778621371.html', 'StockStatus': 'Only 2 items left'}
-{'Brand': 'vivo', 'Broadband': '5g ', 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '8gb+128gb', 'model': 'v23e lte &', 'URL': 'https://www.lazada.com.my/products/vivo-v23e-lte-5g-8gb128gb-original-vivo-malaysia-ready-stock-i2681032330.html', 'StockStatus': 'Only 2 items left'}
-{'Brand': 'vivo', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '64GB', 'model': 'y20', 'URL': 'https://www.lazada.com.my/products/vivo-y20-4gb64gb-original-vivo-malaysia-ready-stock-i1566768253.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'vivo', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '8gb+128gb', 'model': 'y20s', 'URL': 'https://www.lazada.com.my/products/vivo-y20s-8gb128gb-original-vivo-malaysia-ready-stock-i1738428110.html', 'StockStatus': 'Only 5 items left'}
-{'Brand': 'vivo', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '8gb+128gb', 'model': 'y33s', 'URL': 'https://www.lazada.com.my/products/vivo-y33s-8gb128gb-original-vivo-malaysia-ready-stock-i2453699375.html', 'StockStatus': 'Only 2 items left'}
-{'Brand': 'vivo', 'Broadband': '(5g)', 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '8+4   +128gb', 'model': 'y76', 'URL': 'https://www.lazada.com.my/products/vivo-y76-5g-84-extended-ram-128gb-original-vivo-malaysia-ready-stock-i2650861495.html', 'StockStatus': 'Only 5 items left'}
-{'Brand': 'xiaomi', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '8/12gb+128gb/256gb', 'model': '11t', 'URL': 'https://www.lazada.com.my/products/xiaomi-11t11t-pro-812gb128gb256gb-original-xiaomi-malaysia-i2517328393.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'xiaomi', 'Broadband': '5g ', 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '8gb+128/256gb', 'model': 'mi 11 lite ne', 'URL': 'https://www.lazada.com.my/products/xiaomi-mi-11-lite-5g-ne8gb128256gb-original-xiaomi-malaysia-i2063198705.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'xiaomi', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '256GB', 'model': 'poco x3 pro', 'URL': 'https://www.lazada.com.my/products/xiaomi-poco-x3-pro-8gb256gb-original-xiaomi-malaysia-i2061174728.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '10.2-inch', 'Generation': '9th gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '256GB', 'model': 'ipad', 'URL': 'https://www.lazada.com.my/products/apple-ipad-102-inch-9th-gen-wi-fi-i2477575777.html', 'StockStatus': 'Only 4 items left'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '10.2-inch', 'Generation': '9th gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '64GB', 'model': 'ipad', 'URL': 'https://www.lazada.com.my/products/apple-ipad-102-inch-9th-gen-wi-fi-i2477575777.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': None, 'Generation': '6th gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '256GB', 'model': 'ipad mini', 'URL': 'https://www.lazada.com.my/products/apple-ipad-mini-6th-gen-wi-fi-i2481158753.html', 'StockStatus': nan}
-{'Brand': 'apple', 'Broadband': None, 'Display': None, 'Generation': '6th gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '64GB', 'model': 'ipad mini', 'URL': 'https://www.lazada.com.my/products/apple-ipad-mini-6th-gen-wi-fi-i2481158753.html', 'StockStatus': nan}
-{'Brand': 'apple', 'Broadband': None, 'Display': '10.9-inch', 'Generation': '4th gen', 'Network': 'wi-fi', 'Year': '2020', 'Storage': '256GB', 'model': 'ipad air', 'URL': 'https://www.lazada.com.my/products/apple-109-inch-4th-gen-ipad-air-wi-fi-2020-i1535068638.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '10.9-inch', 'Generation': '4th gen', 'Network': 'wi-fi', 'Year': '2020', 'Storage': '64GB', 'model': 'ipad air', 'URL': 'https://www.lazada.com.my/products/apple-109-inch-4th-gen-ipad-air-wi-fi-2020-i1535068638.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': None, 'Generation': '6th gen', 'Network': 'wi-fi + cellular', 'Year': None, 'Storage': '256GB', 'model': 'ipad mini', 'URL': 'https://www.lazada.com.my/products/apple-ipad-mini-6th-gen-wi-fi-cellular-i2481199636.html', 'StockStatus': 'Only 1 items left'}
-{'Brand': 'apple', 'Broadband': None, 'Display': None, 'Generation': '6th gen', 'Network': 'wi-fi + cellular', 'Year': None, 'Storage': '64GB', 'model': 'ipad mini', 'URL': 'https://www.lazada.com.my/products/apple-ipad-mini-6th-gen-wi-fi-cellular-i2481199636.html', 'StockStatus': 'Only 1 items left'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '11-inch', 'Generation': '3rd gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '256GB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-11-inch-ipad-pro-3rd-gen-wi-fi-i2115988291.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '11-inch', 'Generation': '3rd gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '2TB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-11-inch-ipad-pro-3rd-gen-wi-fi-i2115988291.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '11-inch', 'Generation': '3rd gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '1TB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-11-inch-ipad-pro-3rd-gen-wi-fi-i2115988291.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '11-inch', 'Generation': '3rd gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '512GB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-11-inch-ipad-pro-3rd-gen-wi-fi-i2115988291.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '11-inch', 'Generation': '3rd gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '128GB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-11-inch-ipad-pro-3rd-gen-wi-fi-i2115988291.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '11-inch', 'Generation': None, 'Network': 'wi-fi', 'Year': '2020', 'Storage': '256GB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/2020-apple-11-inch-ipad-pro-wifi-256gb-i1052774668.html', 'StockStatus': 'Out of stock'}
-{'Broadband': None, 'Display': '11-inch', 'Generation': None, 'Network': 'wi-fi', 'Year': '2020', 'Storage': '512gb', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/2020-ipad-pro-11-inch-wifi-512gb-i1052794976.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': None, 'Generation': '5th gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '64GB', 'model': 'ipad mini', 'URL': 'https://www.lazada.com.my/products/apple-ipad-mini-wi-fi-5th-gen-i483850515.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': None, 'Generation': '5th gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '256GB', 'model': 'ipad mini', 'URL': 'https://www.lazada.com.my/products/apple-ipad-mini-wi-fi-5th-gen-i483850515.html', 'StockStatus': 'Only 1 items left'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '12.9-inch', 'Generation': '5th gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '128GB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-129-inch-ipad-pro-5th-gen-wi-fi-i2116051504.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '12.9-inch', 'Generation': '5th gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '256GB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-129-inch-ipad-pro-5th-gen-wi-fi-i2116051504.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '12.9-inch', 'Generation': '5th gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '512GB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-129-inch-ipad-pro-5th-gen-wi-fi-i2116051504.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '12.9-inch', 'Generation': '5th gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '1TB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-129-inch-ipad-pro-5th-gen-wi-fi-i2116051504.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '12.9-inch', 'Generation': '5th gen', 'Network': 'wi-fi', 'Year': None, 'Storage': '2TB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-129-inch-ipad-pro-5th-gen-wi-fi-i2116051504.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '10.2-inch', 'Generation': '8th gen', 'Network': 'wi-fi + cellular', 'Year': None, 'Storage': '128GB', 'model': 'ipad   ipad', 'URL': 'https://www.lazada.com.my/products/apple-ipad-8th-gen-102-inch-ipad-wi-fi-cellular-i1515840490.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '10.2-inch', 'Generation': '8th gen', 'Network': 'wi-fi + cellular', 'Year': None, 'Storage': '32GB', 'model': 'ipad   ipad', 'URL': 'https://www.lazada.com.my/products/apple-ipad-8th-gen-102-inch-ipad-wi-fi-cellular-i1515840490.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '11-inch', 'Generation': None, 'Network': 'wi-fi + cellular', 'Year': '2020', 'Storage': '128gb', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/2020-apple-11-inch-ipad-pro-wifi-cellular-128gb-i1052852430.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '11-inch', 'Generation': '3rd gen', 'Network': 'wi-fi + cellular', 'Year': None, 'Storage': '512GB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-11-inch-ipad-pro-3rd-gen-wi-fi-cellular-i2115973521.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '11-inch', 'Generation': '3rd gen', 'Network': 'wi-fi + cellular', 'Year': None, 'Storage': '2TB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-11-inch-ipad-pro-3rd-gen-wi-fi-cellular-i2115973521.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '11-inch', 'Generation': '3rd gen', 'Network': 'wi-fi + cellular', 'Year': None, 'Storage': '1TB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-11-inch-ipad-pro-3rd-gen-wi-fi-cellular-i2115973521.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '11-inch', 'Generation': '3rd gen', 'Network': 'wi-fi + cellular', 'Year': None, 'Storage': '256GB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-11-inch-ipad-pro-3rd-gen-wi-fi-cellular-i2115973521.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '11-inch', 'Generation': '3rd gen', 'Network': 'wi-fi + cellular', 'Year': None, 'Storage': '128GB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-11-inch-ipad-pro-3rd-gen-wi-fi-cellular-i2115973521.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '12.9-inch', 'Generation': '5th gen', 'Network': 'wi-fi + cellular', 'Year': None, 'Storage': '128GB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-129-inch-ipad-pro-5th-gen-wi-fi-cellular-i2116141204.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '12.9-inch', 'Generation': '5th gen', 'Network': 'wi-fi + cellular', 'Year': None, 'Storage': '256GB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-129-inch-ipad-pro-5th-gen-wi-fi-cellular-i2116141204.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '12.9-inch', 'Generation': '5th gen', 'Network': 'wi-fi + cellular', 'Year': None, 'Storage': '512GB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-129-inch-ipad-pro-5th-gen-wi-fi-cellular-i2116141204.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '12.9-inch', 'Generation': '5th gen', 'Network': 'wi-fi + cellular', 'Year': None, 'Storage': '1TB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-129-inch-ipad-pro-5th-gen-wi-fi-cellular-i2116141204.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '12.9-inch', 'Generation': '5th gen', 'Network': 'wi-fi + cellular', 'Year': None, 'Storage': '2TB', 'model': 'ipad pro', 'URL': 'https://www.lazada.com.my/products/apple-129-inch-ipad-pro-5th-gen-wi-fi-cellular-i2116141204.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '10.2-inch', 'Generation': '9th gen', 'Network': 'wi-fi + cellular', 'Year': '2021', 'Storage': '256GB', 'model': 'ipad', 'URL': 'https://www.lazada.com.my/products/apple-ipad-102-inch-9th-gen-wi-fi-cellular-2021-i2477645457.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '10.2-inch', 'Generation': '9th gen', 'Network': 'wi-fi + cellular', 'Year': '2021', 'Storage': '64GB', 'model': 'ipad', 'URL': 'https://www.lazada.com.my/products/apple-ipad-102-inch-9th-gen-wi-fi-cellular-2021-i2477645457.html', 'StockStatus': 'Only 2 items left'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '10.9-inch', 'Generation': '5th gen', 'Network': 'wi-fi', 'Year': '2022', 'Storage': '256GB', 'model': 'ipad air', 'URL': 'https://www.lazada.com.my/products/apple-109-inch-ipad-air-5th-gen-wi-fi-2022-i2913574680.html', 'StockStatus': 'Only 1 items left'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '10.9-inch', 'Generation': '5th gen', 'Network': 'wi-fi', 'Year': '2022', 'Storage': '64GB', 'model': 'ipad air', 'URL': 'https://www.lazada.com.my/products/apple-109-inch-ipad-air-5th-gen-wi-fi-2022-i2913574680.html', 'StockStatus': 'Only 1 items left'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '10.9-inch', 'Generation': '5th gen', 'Network': 'wi-fi + cellular', 'Year': '2022', 'Storage': '256GB', 'model': 'ipad air', 'URL': 'https://www.lazada.com.my/products/apple-109-inch-ipad-air-5th-gen-wi-fi-cellular-2022-i2913772708.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '10.9-inch', 'Generation': '5th gen', 'Network': 'wi-fi + cellular', 'Year': '2022', 'Storage': '64GB', 'model': 'ipad air', 'URL': 'https://www.lazada.com.my/products/apple-109-inch-ipad-air-5th-gen-wi-fi-cellular-2022-i2913772708.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '10.9 inch', 'Generation': '4th gen', 'Network': 'wi-fi + cellular', 'Year': '2020', 'Storage': '256GB', 'model': 'ipad air', 'URL': 'https://www.lazada.com.my/products/apple-109-inch-4th-gen-ipad-air-wi-fi-cellular-2020-i1577552930.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'apple', 'Broadband': None, 'Display': '10.9 inch', 'Generation': '4th gen', 'Network': 'wi-fi + cellular', 'Year': '2020', 'Storage': '64GB', 'model': 'ipad air', 'URL': 'https://www.lazada.com.my/products/apple-109-inch-4th-gen-ipad-air-wi-fi-cellular-2020-i1577552930.html', 'StockStatus': 'Only 2 items left'}
-{'Brand': 'honor', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': '2021', 'Storage': '8gb', 'model': 'magicbook x15 i3   8gb', 'URL': 'https://www.lazada.com.my/products/honor-magicbook-x15-i3-2021-space-grey-8gb-ram-256gb-original-1-year-warranty-by-honor-malaysia-i2608649455.html', 'StockStatus': 'Only 1 items left'}
-{'Brand': 'honor', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': '2021', 'Storage': '8gb', 'model': 'magicbook x15 i5   8gb', 'URL': 'https://www.lazada.com.my/products/honor-magicbook-x15-i5-2021-space-grey-8gb-ram-512gb-original-1-year-warranty-by-honor-malaysia-i2608693196.html', 'StockStatus': 'Only 3 items left'}
-{'Brand': 'huawei', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '16gb', 'model': 'matebook 13 i5  16gb   +', 'URL': 'https://www.lazada.com.my/products/huawei-matebook-13-i5-space-gray-16gb-ram-512gb-free-huawei-wireless-mouse-huawei-laptop-bag-original-1-year-warranty-by-huawei-malaysia-i2526450141.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'huawei', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': '2021', 'Storage': '16gb', 'model': 'matebook d 15 11th i5   16gb', 'URL': 'https://www.lazada.com.my/products/huawei-matebook-d-15-11th-i5-2021-mystic-silver-16gb-ram-512gb-original-2-year-warranty-by-huawei-malaysia-i2139807550.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'huawei', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': '2021', 'Storage': '16gb', 'model': 'matebook d 15 10th i5   16gb', 'URL': 'https://www.lazada.com.my/products/huawei-matebook-d-15-10th-i5-2021-mystic-silver-16gb-ram-512gb-original-1-year-warranty-by-huawei-malaysia-i2139687891.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'huawei', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': None, 'Storage': '8gb', 'model': 'matebook d14 i5  8gb', 'URL': 'https://www.lazada.com.my/products/huawei-matebook-d14-i5-mystic-silver-8gb-ram-512gb-original-1-year-warranty-by-huawei-malaysia-i2040342044.html', 'StockStatus': 'Out of stock'}
-{'Brand': 'huawei', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': '2021', 'Storage': '8gb', 'model': 'matebook d15 10th i5   8gb', 'URL': 'https://www.lazada.com.my/products/huawei-matebook-d15-10th-i5-2021-mystic-silver-8gb-ram-512gb-original-1-year-warranty-by-huawei-malaysia-i2545907474.html', 'StockStatus': 'Only 1 items left'}
-{'Brand': 'huawei', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': '2021', 'Storage': '16gb', 'model': 'matebook x pro i5     + 512g', 'URL': 'https://www.lazada.com.my/products/huawei-matebook-x-pro-i5-2021-emerald-green-16gb-ram-512g-original-1-year-warranty-by-huawei-malaysia-i2139821599.html', 'StockStatus': 'Only 5 items left'}
-{'Brand': 'realme', 'Broadband': None, 'Display': None, 'Generation': None, 'Network': None, 'Year': '2021', 'Storage': '8gb', 'model': 'book 11th i5  8gb', 'URL': 'https://www.lazada.com.my/products/realme-book-11th-i5-2021-8gb-ram-512gb-original-2-years-warranty-by-realme-malaysia-i2438141140.html', 'StockStatus': 'Only 2 items left'}
+8gb
+64GB
+32GB
+8gb+128gb
+6gb+128gb
+6gb+128gb
+4MB
+None
+None
+None
+None
+None
+None
+4gb+64/128gb
+6gb+64/128gb
+6+128gb
+8gb+5gb+128gb
+8gb/12gb+128gb/256gb
+3gb+32gb
+4+64GB
+4+128GB
+2GB+32GB
+8gb+128gb
+128GB
+6gb/8gb+128gb
+32GB
+64GB
+4gb+64gb
+6gb+128gb
+6gb+128gb
+5g8gb+128gba22
+6gb+128gb
+128GB
+256GB
+12+4gb/25gb
+8gb+128gb
+64GB
+8gb+128gb
+8gb+128gb
+8+4+128gb
+8/12gb+128gb/256gb
+8gb+128/256gb
+256GB
+256GB
+64GB
+256GB
+64GB
+256GB
+64GB
+256GB
+64GB
+256GB
+2TB
+1TB
+512GB
+128GB
+256GB
+512gb
+64GB
+256GB
+128GB
+256GB
+512GB
+1TB
+2TB
+128GB
+32GB
+128gb
+512GB
+2TB
+1TB
+256GB
+128GB
+128GB
+256GB
+512GB
+1TB
+2TB
+256GB
+64GB
+256GB
+64GB
+256GB
+64GB
+256GB
+64GB
+8gb
+8gb
+16gb
+16gb
+16gb
+8gb
+8gb
+16gb
+8gb
