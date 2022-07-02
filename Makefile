@@ -5,7 +5,6 @@ PYFLAGS = -W ignore
 # Source codes
 SRCS = 
 
-SHELL := /bin/bash
 # Targets
 MAIN = main.py
 
